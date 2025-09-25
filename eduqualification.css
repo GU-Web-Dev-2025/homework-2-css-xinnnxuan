@@ -1,0 +1,20 @@
+.education-subsection,
+.qualifications-subsection {
+    padding: 20px;
+    background-color: #FFEDAB;
+    border-radius: 8px;
+    border-left: 4px solid #75070C;
+}
+
+.education-subsection {
+    margin-bottom: 30px;
+}
+
+.qualifications-subsection {
+    margin-bottom: 20px;
+}
+
+.education-content,
+.qualifications-content {
+    margin-top: 15px;
+}
